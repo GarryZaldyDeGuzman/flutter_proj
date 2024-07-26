@@ -112,7 +112,7 @@ class _ForecastState extends State<Forecast> {
                             fontSize: 25, color: Colors.white.withOpacity(0.5)),
                       ),
                       Text(
-                        '18 January 2023',
+                        '26 July 2024',
                         style: TextStyle(
                             fontSize: 18, color: Colors.white.withOpacity(0.5)),
                       ),
@@ -245,12 +245,12 @@ class _ForecastState extends State<Forecast> {
   }
 
   List<int> day = [
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    1,
   ];
 }

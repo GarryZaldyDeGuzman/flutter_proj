@@ -30,7 +30,7 @@ class Item extends StatelessWidget {
                   style: TextStyle(color: Colors.white, fontSize: 20),
                 ),
                 Text(
-                  day.toString() + ' January',
+                  day.toString() + ' July',
                   style: TextStyle(
                       color: Colors.white.withOpacity(0.5), fontSize: 17),
                 ),

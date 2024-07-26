@@ -102,7 +102,7 @@ class _HomeState extends State<Home> {
                   height: myHeight * 0.01,
                 ),
                 Text(
-                  '18 January 2023'.toString(),
+                  '25 July 2024'.toString(),
                   style: TextStyle(
                       fontSize: 20, color: Colors.white.withOpacity(0.5)),
                 ),
